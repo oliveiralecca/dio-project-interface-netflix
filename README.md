@@ -1,2 +1,2 @@
 # dio-projeto-interface-netflix
- Pequeno projeto de recriação da interface do Netflix, desenvolvido durante o Bootcamp HTML Web Developer da Digital Innovation One (DIO).
+Small project to recreate the Netflix interface, developed during the Digital Innovation One (DIO) Bootcamp HTML Web Developer.
